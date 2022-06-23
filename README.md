@@ -1,7 +1,4 @@
-
-
-
-
+![banner](dog.jpeg)
 # Image Classifiers
 During the AI Programming Using python Udacity Nanodegree program, this classifiers are build the dog classifier and flower classifier.
 
